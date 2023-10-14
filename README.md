@@ -1,5 +1,5 @@
 # PowerBI_Dashboard_Foodstoresalesanalysis
-•Here I am sharing my PowerBI dashboard(as a post).This dashboard is Food Sales Analysis of Food Store Located in North America having its Franchise in four different cities of North America (East and West) Region.Dashboard is interactive and I have used slicers and timelines and tried to get all possible important insights of dataset on dashboard.
+•Here I am sharing my PowerBI dashboard Project.This dashboard is Food Sales Analysis of Food Store Located in North America having its Franchise in four different cities of North America (East and West) Region.Dashboard is interactive and I have used slicers and timelines and tried to get all possible important insights of dataset on dashboard.
 •Prior to building dashboard i have done:
 1)Data Cleaning-It includes cleaning of data by removing duplicate values,finding out the missing values,removing blankspaces etc.
 2)Data Preprocessing and Data transformation-It includes preprocessing and transforming data by adding new columns to get meaningful and important information.
